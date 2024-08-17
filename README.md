@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Привет меня зову Руслан  👋
+У меня есть высшее образование. На данный момент прохожу курс разработчика нейросетей.
 <!--
 **rusplachinda/rusplachinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
